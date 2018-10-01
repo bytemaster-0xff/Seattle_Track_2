@@ -1,5 +1,7 @@
 # Team Proton
 
+![alt text](mri1.gif "Proton")
+
 ### Notes
 1. These are all very raw original works created in the course of a 2-day hackathon an some amount of work likely would be need to be done to improve quality
 1. Within these files the time and zones are are setup as hard-coded variables. To be useful these should be arrays that will can be used within a loop to iterate across datasets
