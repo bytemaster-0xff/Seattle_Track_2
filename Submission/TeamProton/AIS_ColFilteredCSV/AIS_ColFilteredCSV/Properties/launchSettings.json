@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AIS_ColFilteredCSV": {
+      "commandName": "Project",
+      "commandLineArgs": "\"S:\\AIS_2017_12_Zone17.csv\""
+    }
+  }
+}
